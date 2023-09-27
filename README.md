@@ -46,3 +46,11 @@ Esta seção trata da definição de colunas para armazenar timestamps.
 - Toda tabela deve ter duas colunas para armazenar timestamps: `created_at` e `updated_at`.
 - A coluna `created_at` é preenchida automaticamente com o timestamp do momento em que o registro é criado.
 - A coluna `updated_at` é preenchida automaticamente com o timestamp do momento em que o registro é alterado.
+
+## Referências
+
+- [Padronização de Nomenclatura - Revista SQL Magazine](https://www.devmedia.com.br/padronizacao-de-nomenclatura-revista-sql-magazine-100/24710)
+- [Padronização de Nomenclatura de Banco de Dados - Blog do Reginaldo Jr.](https://reginaldojr.wordpress.com/artigos/padronizacao-de-nomenclatura-de-banco-de-dados/)
+- [Padronização de Nomenclatura para Banco de Dados - SlideShare](https://pt.slideshare.net/samuelsonbrito/padronizao-de-nomenclatura-para-banco-de-dados)
+
+
